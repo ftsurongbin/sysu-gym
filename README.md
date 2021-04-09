@@ -1,6 +1,6 @@
-![sysu-gym](images/sysu-gym.svg)
+![sysu-gym](https://raw.githubusercontent.com/longkaihao/sysu-gym/main/images/sysu-gym.svg)
 
-**sysu-gym** ：中山大学体育场馆管理与预定系统助手
+**[sysu-gym](https://github.com/longkaihao/sysu-gym)** ：中山大学体育场馆管理与预定系统助手
 
 ### 使用方法
 1. Chrome浏览器安装[Tampermonkey](https://www.tampermonkey.net/)扩展
@@ -29,11 +29,11 @@
 ### 界面示例
 **加载自选日期**
 
-![加载自选日期场地示例](images/load_selected_date.gif)
+![加载自选日期场地示例](https://raw.githubusercontent.com/longkaihao/sysu-gym/main/images/load_selected_date.gif)
 
 **自动刷新订场**
 
-![自动刷新订场](images/auto-refresh.gif)
+![自动刷新订场](https://raw.githubusercontent.com/longkaihao/sysu-gym/main/images/auto-refresh.gif)
 
 ### 维护日志
 记录于[日志文件](dev.log)中
